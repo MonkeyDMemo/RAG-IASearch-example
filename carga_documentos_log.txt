@@ -45,3 +45,13 @@ Message: The request is invalid. Details: The property 'source' does not exist o
 [2025-08-22 06:24:13]    ✅ Lote 1: 100 documentos cargados
 [2025-08-22 06:24:13]    ✅ Lote 2: 1 documentos cargados
 [2025-08-22 06:24:13] ✅ Total cargados: 101 chunks
+[2025-08-22 09:32:57] 📝 Creando nuevo índice 'index-memoresendiz'...
+[2025-08-22 09:32:58] ✅ Índice 'index-memoresendiz' creado exitosamente
+[2025-08-22 09:32:59] 📄 Procesando: ¿Qué es Amazon Bedrock_ - Amazon Bedrock.pdf
+[2025-08-22 09:32:59]    Total de páginas: 3
+[2025-08-22 09:32:59]    ✅ 15 chunks creados
+[2025-08-22 09:32:59] 🔄 Generando embeddings para 15 chunks...
+[2025-08-22 09:32:59]    Procesando chunk 1/15
+[2025-08-22 09:33:00]    Procesando chunk 11/15
+[2025-08-22 09:33:01]    ✅ Lote 1: 15 documentos cargados
+[2025-08-22 09:33:01] ✅ Total cargados: 15 chunks

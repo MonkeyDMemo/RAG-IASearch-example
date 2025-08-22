@@ -42,7 +42,7 @@ class CargadorPDF:
         # Clientes de Azure Search
         self.search_endpoint = os.getenv("AZURE_SEARCH_ENDPOINT")
         self.search_key = os.getenv("AZURE_SEARCH_KEY")
-        self.index_name = os.getenv("AZURE_SEARCH_INDEX_NAME_V2")
+        self.index_name =os.getenv("AZURE_SEARCH_INDEX_NAME_V2")
 
         self.index_client = SearchIndexClient(
             endpoint=self.search_endpoint,

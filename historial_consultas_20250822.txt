@@ -63,3 +63,31 @@ Pregunta: porque se llama IA Generativa
 Respuesta: La IA generativa recibe su nombre porque su principal función es **generar contenido nuevo y original** a partir de patrones y conocimientos derivados de los datos con los que ha sido entrenada. A diferencia de la IA tradicional, que se centra en tareas como clasificación, predicción o detección de patrones, la IA generativa se especializa en la creación de nuevos datos, textos, imágenes, música, código y otros tipos de contenido. Este proceso no implica reproducir directamente los datos de entrenamiento, sino que utiliza los patrones aprendidos para producir resultados novedosos y únicos. (Fuente: Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf, Página 3).
 Fuentes: Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 3), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 11), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 14), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 9)
 ============================================================
+
+============================================================
+Fecha: 2025-08-22 06:42:06
+Pregunta: que es un MCP
+Respuesta: No tengo información sobre qué es un MCP en el contexto proporcionado.
+Fuentes: Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 13), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 14), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 4), Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf (pág. 6)
+============================================================
+
+============================================================
+Fecha: 2025-08-22 09:33:47
+Pregunta: que es bedrock y para que sirve?
+Respuesta: Amazon Bedrock es un servicio totalmente gestionado que permite a los usuarios acceder a modelos fundacionales (FMs) de alto rendimiento desarrollados por las principales empresas de inteligencia artificial y Amazon, a través de una API unificada. Este servicio está diseñado para facilitar el desarrollo de aplicaciones de inteligencia artificial generativa con seguridad, privacidad y un enfoque en la IA responsable.
+
+**¿Para qué sirve Amazon Bedrock?**
+
+1. **Experimentación y evaluación de modelos fundacionales:** Permite a los usuarios probar y evaluar diferentes modelos para identificar cuál se adapta mejor a sus casos de uso.
+
+2. **Personalización de modelos:** Ofrece la posibilidad de personalizar los modelos de forma privada utilizando datos propios mediante técnicas como el microajuste y la generación aumentada de recuperación (RAG). También permite continuar con el entrenamiento previo para ajustar parámetros y mejorar el rendimiento en tareas específicas o dominios concretos.
+
+3. **Creación de agentes:** Facilita la creación de agentes que pueden ejecutar tareas utilizando los sistemas y orígenes de datos de la empresa.
+
+4. **Integración y despliegue sin servidor:** Proporciona una experiencia sin servidor, lo que permite comenzar rápidamente y desplegar modelos en aplicaciones de manera fácil y segura, sin necesidad de gestionar infraestructura.
+
+5. **Optimización del rendimiento:** Ofrece opciones para mejorar la eficiencia y el rendimiento de las aplicaciones basadas en modelos fundacionales, incluyendo la adquisición de rendimiento aprovisionado para realizar inferencias de manera más eficiente y a costos reducidos.
+
+En resumen, Amazon Bedrock es una herramienta versátil para desarrollar, personalizar e implementar aplicaciones de inteligencia artificial generativa de manera eficiente y segura.
+Fuentes: ¿Qué es Amazon Bedrock_ - Amazon Bedrock.pdf (pág. 1), ¿Qué es Amazon Bedrock_ - Amazon Bedrock.pdf (pág. 2)
+============================================================
