@@ -1,0 +1,47 @@
+[2025-08-22 06:00:46] ✅ Índice 'pdf-index' existe con 82 documentos
+[2025-08-22 06:00:46] 📄 Procesando: MCP_explained.pdf
+[2025-08-22 06:00:46]    Total de páginas: 15
+[2025-08-22 06:00:46]    ✅ 56 chunks creados
+[2025-08-22 06:00:46] 🔄 Generando embeddings para 56 chunks...
+[2025-08-22 06:00:46]    Procesando chunk 1/56
+[2025-08-22 06:00:48]    Procesando chunk 11/56
+[2025-08-22 06:00:49]    Procesando chunk 21/56
+[2025-08-22 06:00:50]    Procesando chunk 31/56
+[2025-08-22 06:00:51]    Procesando chunk 41/56
+[2025-08-22 06:00:52]    Procesando chunk 51/56
+[2025-08-22 06:00:54]    ❌ Error cargando lote: () The request is invalid. Details: The property 'source' does not exist on type 'search.documentFields' or is not present in the API version '2024-07-01'. Make sure to only use property names that are defined by the type.
+Code: 
+Message: The request is invalid. Details: The property 'source' does not exist on type 'search.documentFields' or is not present in the API version '2024-07-01'. Make sure to only use property names that are defined by the type.
+[2025-08-22 06:00:54] ✅ Total cargados: 0 chunks
+[2025-08-22 06:23:30] ✅ Índice 'pdf-index-v2' existe con 0 documentos
+[2025-08-22 06:23:30] 📄 Procesando: MCP_explained.pdf
+[2025-08-22 06:23:30]    Total de páginas: 15
+[2025-08-22 06:23:30]    ✅ 56 chunks creados
+[2025-08-22 06:23:30] 🔄 Generando embeddings para 56 chunks...
+[2025-08-22 06:23:30]    Procesando chunk 1/56
+[2025-08-22 06:23:32]    Procesando chunk 11/56
+[2025-08-22 06:23:33]    Procesando chunk 21/56
+[2025-08-22 06:23:34]    Procesando chunk 31/56
+[2025-08-22 06:23:35]    Procesando chunk 41/56
+[2025-08-22 06:23:36]    Procesando chunk 51/56
+[2025-08-22 06:23:39]    ✅ Lote 1: 56 documentos cargados
+[2025-08-22 06:23:39] ✅ Total cargados: 56 chunks
+[2025-08-22 06:24:01] ✅ Índice 'pdf-index-v2' existe con 56 documentos
+[2025-08-22 06:24:01] 📄 Procesando: Introducción a la IA generativa_v3 e la Industrial GenAI_VF.pdf
+[2025-08-22 06:24:01]    Total de páginas: 17
+[2025-08-22 06:24:01]    ✅ 101 chunks creados
+[2025-08-22 06:24:01] 🔄 Generando embeddings para 101 chunks...
+[2025-08-22 06:24:01]    Procesando chunk 1/101
+[2025-08-22 06:24:02]    Procesando chunk 11/101
+[2025-08-22 06:24:03]    Procesando chunk 21/101
+[2025-08-22 06:24:04]    Procesando chunk 31/101
+[2025-08-22 06:24:05]    Procesando chunk 41/101
+[2025-08-22 06:24:06]    Procesando chunk 51/101
+[2025-08-22 06:24:08]    Procesando chunk 61/101
+[2025-08-22 06:24:09]    Procesando chunk 71/101
+[2025-08-22 06:24:10]    Procesando chunk 81/101
+[2025-08-22 06:24:11]    Procesando chunk 91/101
+[2025-08-22 06:24:12]    Procesando chunk 101/101
+[2025-08-22 06:24:13]    ✅ Lote 1: 100 documentos cargados
+[2025-08-22 06:24:13]    ✅ Lote 2: 1 documentos cargados
+[2025-08-22 06:24:13] ✅ Total cargados: 101 chunks
